@@ -1,4 +1,4 @@
-# NorenApi-java
+# EmkayGlobalDApi-java
 
 JavaApi used to connect to NorenOMS
 ****
